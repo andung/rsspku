@@ -8,3 +8,5 @@ abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
 }
+
+<p>Hello Semua, Saya sedang belajar Git</p>
